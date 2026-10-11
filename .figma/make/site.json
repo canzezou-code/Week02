@@ -1,0 +1,10 @@
+{
+  "description": "Creates a smooth, multi-page promotional website showcasing course content and key learnings with seamless navigation for educational purposes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
