@@ -175,7 +175,7 @@ export default function App() {
         ))}
       </nav>
 
-      <div className="slides" style={{ transform: `translateY(-${page * 100}vh)` }}>
+      <div className="slides" style={{ transform: `translateY(-${page * 100}dvh)` }}>
         <section className="slide hero">
           <div className="hero-orbit orbit-one" />
           <div className="hero-orbit orbit-two" />
@@ -194,7 +194,7 @@ export default function App() {
           </div>
         </section>
 
-        <section className="slide cream">
+        <section className="slide cream note-overview">
           <div className="content wide">
             <Badge>01 · MEET THE NOTES</Badge>
             <div className="section-heading">
